@@ -22,5 +22,5 @@ Ubuntu 20 or Newest
 
 **Link Instalasi**
 ```
-bash -c "$(wget -qO- https://t.ly/Wmixh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/Hermananza/v4/main/install.sh)"
 ```
