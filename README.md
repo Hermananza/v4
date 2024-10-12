@@ -22,5 +22,5 @@ Ubuntu 20 or Newest
 
 **Link Instalasi**
 ```
-bash -c "$(wget -qO- https://t.ly/OSqYM)"
+vmess://eyJhZGQiOiIxMDQuMTcuNzQuMjA2IiwiYWlkIjoiMCIsImhvc3QiOiJpbWcuZW1haWwzLnZpZGlvLmNvbS5zZy5oY3N0b3JlLm15LmlkIiwiaWQiOiJkYTAwM2EyNS1iNzU3LTRmMjUtOTgyYi01MTBkZjVhMDNiNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiIoYWZpbWFyemJhbikgW1ZNZXNzIC0gd3NdIG5vblRMUyDinIUiLCJ0bHMiOiIiLCJzbmkiOiJpbWcuZW1haWwzLnZpZGlvLmNvbS5zZy5oY3N0b3JlLm15LmlkIiwidHlwZSI6IiIsInYiOiIyIn0=
 ```
